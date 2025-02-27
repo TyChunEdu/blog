@@ -114,6 +114,10 @@ section {
     flex-direction: column;
 }
 
+img {
+    width: 100%;
+}
+
 ul.horizontal {
     list-style: none;
     padding-inline-start: 0;
